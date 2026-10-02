@@ -1,0 +1,10 @@
+interface:
+  display_name: KI-Coaching Workflow
+  short_description: Strukturierte, warme Coaching-Auswertungen aus Notizen und Transkripten.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
